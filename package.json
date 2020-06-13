@@ -1,6 +1,6 @@
 {
   "name": "create-sandcastle",
-  "version": "1.0.0-rc2",
+  "version": "1.0.1",
   "description": "Project Initializer for Sandcastle, a WebXR Prototyping Framework",
   "main": "./bin/sccreate.js",
   "bin": {
