@@ -1,0 +1,31 @@
+{
+  "name": "create-sandcastle",
+  "version": "1.0.0-rc2",
+  "description": "Project Initializer for Sandcastle, a WebXR Prototyping Framework",
+  "main": "./bin/sccreate.js",
+  "bin": {
+    "create-sandcastle": "./bin/sccreate.js",
+    "sccreate": "./bin/sccreate.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PlutoVR/create-sandcastle.git"
+  },
+  "keywords": [
+    "sandcastle",
+    "webxr",
+    "plutovr",
+    "pluto",
+    "webgl",
+    "xr"
+  ],
+  "author": "Michael Hazani <michael@michaelhazani.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PlutoVR/create-sandcastle/issues"
+  },
+  "homepage": "https://github.com/PlutoVR/create-sandcastle#readme"
+}
